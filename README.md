@@ -109,4 +109,4 @@ Once that's complete, you will want to set up the database on Heroku by sending 
 heroku psql < database/schema.sql
 heroku psql < database/data.sql
 ```
-To view our website, go to this url: https://bytebank.herokuapp.com/
+To view our website, go to this url: https://bytebank-522e1153d0bd.herokuapp.com/
