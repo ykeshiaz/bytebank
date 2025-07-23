@@ -1,6 +1,6 @@
 # Capstone Starter Project
 
-##Domain
+## Domain
 https://bytebank-522e1153d0bd.herokuapp.com/home
 
 ## Database
